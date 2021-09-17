@@ -1,0 +1,1 @@
+# HP-Pavilion-14-v011tx-Opencore-EFI
