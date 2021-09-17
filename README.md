@@ -16,7 +16,7 @@ You can take and re-use it, but I may not be able to provide support.
 8. Ethernet: Realtek RTL8139/810x
 
 ## F.A.Q.
-- none -
+- - none -
 
 ## About Me
 Pangeran Wiguan  
